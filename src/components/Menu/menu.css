@@ -1,0 +1,25 @@
+.list-menu{
+    background: linear-gradient(90deg, rgba(255,196,0,1) 12%, rgba(255,223,43,1) 56%, rgba(255,246,43,1) 77%);
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+}
+
+.link{
+    margin: 0px;
+    border-bottom: 0px;
+    
+}
+
+.link > *{
+    width: 10vw;
+    padding: 10px;
+    text-decoration: none;
+    
+    border-radius: 20px;
+    border: 1px solid #60c3d8;
+    color: #000000;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
