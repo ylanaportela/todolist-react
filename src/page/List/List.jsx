@@ -64,7 +64,7 @@ const List = () => {
         </div>
       </header>
       <div className='image-task'>
-      <img src={ImageTask}/>
+      <img src={ImageTask} alt='Ilustration about list'/>
       </div>
       
       <main>

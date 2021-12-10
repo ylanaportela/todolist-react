@@ -22,7 +22,7 @@ const Calendario = () => {
 
                 <div className='container-calendar'>
                     <Calendar className='calendar'/>
-                    <img className='image-calendar' src={ImageCalendar}/>
+                    <img className='image-calendar' src={ImageCalendar} alt='Ilustration about calendar'/>
                 </div>
 
             </section>
